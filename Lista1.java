@@ -13,7 +13,6 @@ import org.omg.CORBA.IntHolder;
 public class Lista1 extends ListEmploy {
 
     public static void main(String[] args) {
-        new FlowLayout();
 
         Lista1 L = new Lista1();
         Locale.setDefault(Locale.CANADA);
